@@ -280,7 +280,7 @@ const sections = [
         {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".speed", description: "Menampilkan kecepatan respon BOT"},
         {title: `💌 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
         {title: `⏰ ${pmenus} RUNTIME BOT`, rowId: ".runtime", description: "𝙼𝚎𝚗𝚊𝚖𝚙𝚒𝚕𝚔𝚊𝚗 Waktu Bot Berjalan"}, 
-        {title: `🌸 Script Direcode Oleh KhrlMstfa`, rowId: "p", description: '✧ Yang Jual Esce Moga Banyak Jembutnya:v'},
+        {title: `🌸 Script Direcode Oleh Okta`, rowId: "p", description: '✧ Yang Jual Esce Moga kena ajab:v'},
         {title: `📔 ${pmenus} SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
     ]
       },{
@@ -371,12 +371,12 @@ let tek = `✧────···[ Dashboard ]···────✧
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
 │
-│ ▸ *Sumber :* YouTube RullZY
+│ ▸ *Sumber :* YouTube ChataOfc
 │ ▸ *ᴀᴜᴛʜᴏʀ :* ${nameown}
 ┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
 ✧
-┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
-│ ʙᴇʀɪ ᴊᴇᴅᴀ ʏᴀʜ ᴋᴀᴋ ^ω^
+┬ 🌱 𝗣𝗶𝗻𝗻𝗲𝗱 :
+│ ʙᴇʀɪ ᴊᴇᴅᴀ ᴛᴏᴅ
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
 │${emot} *ʀᴏʟᴇ:* ${usrs.role}${usrs.premiumTime > 1 ? `
@@ -569,7 +569,7 @@ const listMessage = {
 
     surface : 1,
 
-    message: '[❗] Memuat Menu ' + teks + '...\n Sabar Ya Kak ^ω^', 
+    message: '[❗] Memuat Menu ' + teks + '...\n sᴀᴍʙᴀʀ ʙʟᴏɢ', 
 
     orderTitle: `▮Menu ▸`,
 
@@ -642,7 +642,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+                        url: 'https://youtube.com/@chataofc-'
                     }
                 },
                 {
