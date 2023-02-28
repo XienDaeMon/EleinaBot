@@ -137,7 +137,7 @@ async function connectionUpdate(update) {
 console.log(chalk.yellow('Successfully connected by ' + author))
 }
   console.log(JSON.stringify(update, null, 4))
-  if (update.receivedPendingNotifications) return this.sendButton(nomorown + '@s.whatsapp.net', 'Bot Successfully Connected', author, null, [['MENU', '/menu']], null)
+  if (update.receivedPendingNotifications) return this.sendButton(nomorown + '@s.whatsapp.net', 'Sukses Tersambung', author, null, [['Menunya', '/menu']], null)
 }
 
 process.on('uncaughtException', console.error)
@@ -168,8 +168,8 @@ global.reloadHandler = async function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = '👋 Hallo @user\n\n                *W E L C O M E*\n⫹⫺ In @subject\n\n⫹⫺ Read *DESCRIPTION*\n@desc'
-  conn.bye = '👋 Byee @user\n\n                *G O O D B Y E*'
+  conn.welcome = 'Hai @user\nSelamat Datang Di@subject'
+  conn.bye = 'Jangan Balik Ya @user'
   conn.spromote = '*@user* Sekarang jadi admin!'
   conn.sdemote = '*@user* Sekarang bukan lagi admin!'
   conn.sDesc = 'Deskripsi telah diubah menjadi \n@desc'
