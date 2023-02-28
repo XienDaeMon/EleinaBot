@@ -50,32 +50,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/OktaModz' // ig
-global.sgh = 'https://github.com/ChataOfc' // github
-global.sgc = 'https://chat.whatsapp.com/GZranVq1KblDNu2lxxMf3A' // group whatsapp
+global.sig = 'https://instagram.com/DaeMon' // ig
+global.sgh = 'https://github.com/XienDaeMon' // github
+global.sgc = 'https://chat.whatsapp.com/Heheheha' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://nhentai.net/g/767842' //Hmmm, Ini boleh kalian isi terserah :v
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/@ChataOfc-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://www.youtube.com/@DaeMon' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500' //dana
+global.pdana = '087865346175' //dana
 global.povo = '-' //ovo
-global.pgopay = '085731947500' //gopay
+global.pgopay = '081269734000' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085731947500' //telkomsel
-global.ppulsa2 = '085749543572' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/oktakc'
+global.ppulsa = '081269734000' //telkomsel
+global.ppulsa2 = '087865346175' // kalau ada kartu lain isi aja
+global.psaweria = 'Error'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'EleinaBotz'
-global.nameown = 'Okta'
+global.nomorbot = '6287865346175'
+global.nomorown = '6281269734000'
+global.namebot = 'Demon'
+global.nameown = 'Akmal'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'ChataOfc' // nama github lu
-global.linkgithub = 'github.com/ChataOfc' // tarok link github lu
+global.namagithub = 'XienDaeMon' // nama github lu
+global.linkgithub = 'github.com/XienDaeMon' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -86,7 +86,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', true], 
+  ['6281269734000', 'Akmal', true], 
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -135,14 +135,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 EleinaBoTz 」' //Main Watermark
-global.wm2 = 'Eleina-BOT'
-global.wm3 = '⫹⫺ Eleina-BOT '
+global.wm = '$Akmal' //Main Watermark
+global.wm2 = 'Demon-BOT'
+global.wm3 = '⫹⫺ $#-BOT '
 global.botdate = `⫹⫺ TANGGAL: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `W A K T U : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Okta`
-global.packname = 'EleinaBotz WhatsApp'
-global.author = '                「 Eleina-BOT  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Akmal`
+global.packname = 'DemonBotz WhatsApp'
+global.author = 'Demon Botz'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -633,8 +633,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Eleina-BOT'
-global.stickauth = `By ©Okta`
+global.stickpack = 'Sewa Bot Pm wa.me/6281269734000'
+global.stickauth = `By ©Akmal`
 
 global.multiplier = 38 // The higher, The harder levelup
 
